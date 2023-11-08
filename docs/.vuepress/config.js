@@ -42,7 +42,7 @@ module.exports = {
       description: 'My portfolio'
     },
     '/hi/': {
-      lang: 'HI - हिन्दी',
+      lang: '🇮🇳 - हिन्दी',
       title: 'संविभाग',
       description: 'मेरा संविभाग'
     },
