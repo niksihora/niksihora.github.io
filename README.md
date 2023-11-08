@@ -1,3 +1,3 @@
 # About
 
-This portfolio was created using [vuepress](vuepress.vuejs.org/).
+This portfolio was created using [vuepress](https://vuepress.vuejs.org/).
