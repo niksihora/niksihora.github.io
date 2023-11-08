@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "nik portfolio site",
+  "main": "index.js",
+  "authors": {
+    "name": "Nikhil Sihora",
+    "email": "niksihora@gmail.com"
+  },
+  "repository": "niksihora.github.io/portfolio",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
