@@ -32,7 +32,7 @@ module.exports = {
       },
     'vuepress/google-analytics',
       {
-        'ga': 'UA-110069756-2' // UA-00000000-0
+        'ga': 'G-EMZ7Y0GL56' // UA-00000000-0
       },
   ],
   locales: {
