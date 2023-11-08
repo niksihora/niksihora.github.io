@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: nik portfolio site
+tagline: Nikhil Sihora portfolio site
 actionText: Quick Start →
 actionLink: /guide/
 features:
