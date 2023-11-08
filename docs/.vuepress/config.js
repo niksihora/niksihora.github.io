@@ -39,12 +39,12 @@ module.exports = {
     '/': {
       lang: '🇬🇧 - English', // this will be set as the lang attribute on <html>
       title: 'Portfolio',
-      description: 'My portfolio'
+      description: ' '
     },
-    '/hi/': {
+    '/in/': {
       lang: '🇮🇳 - हिन्दी',
       title: 'संविभाग',
-      description: 'मेरा संविभाग'
+      description: ' '
     },
 },
   themeConfig: {
