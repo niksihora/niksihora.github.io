@@ -30,7 +30,7 @@ module.exports = {
         networks: ['pinterest', 'linkedin'],
         extendsNetworks,
       },
-    'vuepress/google-analytics',
+    '@vuepress/google-analytics',
       {
         'ga': 'G-EMZ7Y0GL56' // UA-00000000-0
       },

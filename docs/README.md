@@ -46,10 +46,14 @@ Whether it's troubleshooting a tricky bug or optimizing a server's performance, 
 ## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Projects
 
 
-<a name="languages"></a>
+<a name="language"></a>
 <br />
 ## <font-awesome-icon icon="language"/> Spoken Languages
+
 
 <a name="contact"></a>
 <br />
 ## <font-awesome-icon icon="users"/> Contact
+- [<font-awesome-icon :icon="['fab', 'github']" /> Github](https://github.com/niksihora)
+- [<font-awesome-icon :icon="['fab', 'linkedin']" /> Linkedin](https://www.linkedin.com/in/nik-sihora/)
+- Or you can contact me by sending an email to [this address](mailto:iam@itbaba.org).

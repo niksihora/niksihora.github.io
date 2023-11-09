@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.4.1",
+    "@vuepress/plugin-google-analytics": "^1.9.10",
     "@vuepress/plugin-nprogress": "^1.4.1",
     "typescript": "^3.8.3",
     "vuepress": "^1.4.1",
