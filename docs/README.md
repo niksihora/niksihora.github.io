@@ -20,7 +20,7 @@ Whether it's troubleshooting a tricky bug or optimizing a server's performance, 
 <br />
 ## <font-awesome-icon icon="server"/> My System Admin Experience
 - 🇮🇳 Mar/2023 - current position : "__Linux Administrator__" working from [TCS](https://tcs.com/) Mumbai, India.  
-
+> 
 - 🇮🇳 May/2019 - Feb/2023 : "__IT Engineer__" working from [Microfiber Corp Pvt Ltd](https://microfibercorp.com/) Silvassa, India.
 > I focused on streamlining operations and enhancing efficiency by implementing automation solutions. This included developing and deploying scripts for tasks like user management and back-ups, resulting in a notable 20% increase in overall efficiency.   
 > I played a key role in configuring robust security settings, both for groups and individuals, ensuring precise access levels to different parts of the filesystem.  
@@ -41,15 +41,39 @@ Whether it's troubleshooting a tricky bug or optimizing a server's performance, 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8114b252-9fa1-4f6d-b79a-82d2db5a1de5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
+*Below is the list of technology I have used over the years*  
+
+::: details See the details by clicking here
+| Technology        | Years of experience   | Self-assesment |
+| :------------- |:-------------:| :-------------:|
+| __<font-awesome-icon :icon="['fab', 'windows']" /> Windows__      | 6 years      | ★★★☆☆ |
+| __<font-awesome-icon :icon="['fab', 'linux']" /> Linux__      | 4 years      | ★★★☆☆ |
+| __<font-awesome-icon :icon="['fab', 'redhat']" />Ansible__ | 2 year | ★★★☆☆ |
+| __<font-awesome-icon :icon="['fas', 'terminal']" />Bash__      | 2 years      | ★★☆☆☆ |
+| __<font-awesome-icon :icon="['fab', 'python']" /> Python__ | 1 year  | ★★☆☆☆ |
+| __<font-awesome-icon :icon="['fab', 'docker']" /> Docker__ | 1 year | ★★☆☆☆ |
+<!---
+| __<font-awesome-icon :icon="['fab', 'ship']" /> Kubernetes__ | 1 year | ★★☆☆☆ |
+| __<font-awesome-icon :icon="['fas', 'layer-group']" />Proxmox__ | 1 year  | ★★☆☆☆ |
+| __<font-awesome-icon :icon="['fab', 'windows']" /> HyperV__      | 3 years      | ★★★☆☆ |
+| __<font-awesome-icon :icon="['fab', 'sliders']" /> Prometheus__      | 1 years      | ★★☆☆☆ |
+| __<font-awesome-icon :icon="['fas', 'sliders']" />Grafana__ | 1 year  | ★★☆☆☆ |
+--->
+:::
+
 <a name="projects"></a>
 <br />
 ## <font-awesome-icon :icon="['fas', 'lightbulb']"/> Projects
-
+- This is still under progress, more updates coming soon.
 
 <a name="language"></a>
 <br />
 ## <font-awesome-icon icon="language"/> Spoken Languages
 
+- 🇮🇳 Hindi (Native speaker)
+- 🇮🇳 Gujarati (Native Speaker)
+- 🇬🇧 English (C1)
+- 🇮🇳 Marathi (B1)
 
 <a name="contact"></a>
 <br />
