@@ -3,7 +3,7 @@ home: true,
 heroText: About Me
 heroImage: me.png
 noGlobalSocialShare: true
-footer: made with vuepress ❤️, hosted on github
+footer: Hosted on github pages.
 ---
 
 My name is Nikhil Sihora, I’m a 26 year old __Linux Administrator__ with over 6 years of experience, currently working at [TCS](https://tcs.com/), and I'm the one behind the terminal screen, ensuring servers run smoother than a well-oiled machine.  
@@ -38,6 +38,7 @@ Whether it's troubleshooting a tricky bug or optimizing a server's performance, 
 <br />
 ## <font-awesome-icon icon="code"/> Technical Skills & Certifications
 <div style="padding: 10px; text-align: center;">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="32522a75-fd4e-4da7-93d9-cdaa5572f24a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8114b252-9fa1-4f6d-b79a-82d2db5a1de5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
