@@ -37,6 +37,7 @@ Whether it's troubleshooting a tricky bug or optimizing a server's performance, 
 <a name="skills"></a>
 <br />
 ## <font-awesome-icon icon="code"/> Technical Skills & Certifications
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d6b00133-6cab-4217-9ea9-503911ea0fa6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div style="padding: 10px; text-align: center;">
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="32522a75-fd4e-4da7-93d9-cdaa5572f24a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8114b252-9fa1-4f6d-b79a-82d2db5a1de5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
