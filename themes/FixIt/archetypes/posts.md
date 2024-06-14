@@ -5,8 +5,8 @@ date: {{ .Date }}
 slug: {{ substr .File.UniqueID 0 7 }}
 draft: true
 author:
-  name:
-  link:
+  name: Nikhil Sihora
+  link: https://www.linkedin.com/in/nik-sihora/
   email:
   avatar:
 description:
