@@ -29,7 +29,7 @@ toc:
 - **Each pod gets an internal IP address** for communicating with each other (virtual network created by K8).
 - If a pod is restarted (maybe after the application running on it crashed), its IP address may change.
 
-![kubernetes-pod](/posts/kubernetes-pod/kubernetes-pod.png)
+![kubernetes-pod](/posts/kubernetes-pod/kubernetes-pod.svg)
 
 {{< admonition type=tip title="" open=true >}}
 
@@ -38,7 +38,7 @@ toc:
 Without using Pods, making a setup like this would be difficult as we need to manage attaching the helper containers to the application containers and kill them if the application container goes down.
 
 Although, most use cases of pods revolve around single containers, it provides flexibility to add a helper container in the future as the application evolves.
-![kubernetes-pod-multi-container](/posts/kubernetes-pod/kubernetes-pod-multi-container.png)
+![kubernetes-pod-multi-container](/posts/kubernetes-pod/kubernetes-pod-multi-contntainer.svg)
 
 {{< /admonition >}}
 
