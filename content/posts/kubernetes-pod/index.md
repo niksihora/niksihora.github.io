@@ -8,7 +8,7 @@ author:
   link: https://www.linkedin.com/in/nik-sihora/
 description:
 resources:
-  - name: featured-image
+  - name: 
     src: kubernetes.png
 tags:
   - kubernetes
@@ -20,7 +20,6 @@ toc:
   auto: false
 ---
 
-<!--more-->
 - Kubernetes doesn’t run containers directly on the nodes. Every container is encapsulated by a pod.
 - Smallest unit of computing Kubernetes.
 - A pod is a single instance of an application. If another instance of the application needs to be deployed, another pod is deployed with the containerized application running inside pod.

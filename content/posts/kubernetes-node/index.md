@@ -1,41 +1,24 @@
 ---
+weight: 1
 title: Kubernetes Node
-subtitle:
 date: 2024-05-10T12:05:51+05:30
-slug: 
-draft: false
+type: posts
 author:
   name: Nikhil Sihora
   link: https://www.linkedin.com/in/nik-sihora/
-  email:
-  avatar:
-description: 
-keywords:
-license:
-comment: false
-weight: 0
+description:
+resources:
+  - name: 
+    src: kubernetes.png
 tags:
   - kubernetes
 categories:
   - kubernetes
-hiddenFromHomePage: false
-hiddenFromSearch: false
-hiddenFromRss: false
-hiddenFromRelated: false
-summary:
-resources:
-  - name: featured-image
-    src: kubernetes.png
-toc: true
-math: false
-lightgallery: false
-password:
-message:
-repost:
-  enable: true
-  url:
+lightgallery: true
+reward: false
+toc:
+  auto: false
 ---
-<!--more-->
 
 - Kubernetes is an open-source **container orchestration** tool developed by Google.
 - It helps us manage containerized applications in different deployment environments.
