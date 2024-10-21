@@ -22,9 +22,9 @@ toc:
 
 ![kubernetes-deployment](kubernetes-deployment.png)
 - **Provides the capability to upgrade the instances seamlessly using rolling updates, rollback to previous versions seamlessly, undo, pause and resume changes as required.**
-- Abstraction over [ReplicaSet](/posts/replicaset/index.md).
+- Abstraction over [ReplicaSet](/posts/replicaset/).
 - **Blueprint for stateless pods** (application layer).
-- When a deployment is created, it automatically creates a [ReplicaSet](/posts/replicaset/index.md) which in turn creates pods. If we run `k get all` we can see the resources created by deployment.
+- When a deployment is created, it automatically creates a [ReplicaSet](/posts/replicaset/) which in turn creates pods. If we run `k get all` we can see the resources created by deployment.
 
 # Config YAML file
 
