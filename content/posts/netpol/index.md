@@ -1,14 +1,14 @@
 ---
 weight: 1
 title: Kubernetes Replicaset
-date: 2024-10-18T20:38:04+05:30
+date: 2024-12-17T20:38:04+05:30
 type: posts
 author:
   name: Nikhil Sihora
   link: https://www.linkedin.com/in/nik-sihora/
 description:
 resources:
-  - name: featured-image
+  - name: 
     src: kubernetes.png
 tags:
   - kubernetes
