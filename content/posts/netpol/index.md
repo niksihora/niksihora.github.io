@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Kubernetes Replicaset
+title: Kubernetes Network Policies
 date: 2024-12-17T20:38:04+05:30
 type: posts
 author:
