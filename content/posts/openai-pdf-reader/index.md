@@ -24,34 +24,32 @@ toc:
 
 To implement a conversational search of local available PDF documents using the OpenAI Langchain Framework and Python programming.
 
-    Architecture Diagram
-	![arch-diag](arch-diag.png)
+Architecture Diagram
+![arch-diag](arch-diag.png)
 
-    System Requirements:
+System Requirements:
 
-    Base Operating System (Windows / Linux / MacOS)
-    DockerHub Login
-    GitHub.com Login
-    OpenAI API Secret Key
-    Docker Desktop (Not required if working with Linux CLI)
+Base Operating System (Windows / Linux / MacOS)
+DockerHub Login
+GitHub.com Login
+OpenAI API Secret Key
+Docker Desktop (Not required if working with Linux CLI)
 
-    Setup Background:
+Setup Background:
 
-    BaseOS:
-        The host operating system were the complete tech stack described in architecture diagram will be running.
-    Install Docker Desktop locally;
-        Secure, out-of-the-box containerization software offering developers and teams a robust, hybrid toolkit to build, share, and run applications anywhere.
-    Create a hub.docker.com login:
-        To download / upload the changes to docker image.
-    GitHub.com login:
-        To make changes to source code of python / Dockerfile / Docker Compose config.
-    OpenAI API Secret Token:
-        In order to query the OpenAI API the request from the BaseOS system has to be authenticated. Secret to be exported like below:
-            export OPENAI_API_KEY=’xxx’
+BaseOS:
+The host operating system were the complete tech stack described in architecture diagram will be running.
+Install Docker Desktop locally;
+Secure, out-of-the-box containerization software offering developers and teams a robust, hybrid toolkit to build, share, and run applications anywhere.
+Create a hub.docker.com login:
+To download / upload the changes to docker image.
+GitHub.com login:
+To make changes to source code of python / Dockerfile / Docker Compose config.
+OpenAI API Secret Token:
+In order to query the OpenAI API the request from the BaseOS system has to be authenticated. Secret to be exported like below: export OPENAI_API_KEY=’xxx’ or edit the docker-compose.yml file.
 
-    Implementation Procedure:
-
-    Make sure to install the application “Docker Desktop” from internet.
+Implementation Procedure:
+Make sure to install the application “Docker Desktop” from Internet.
 
 2. Execute docker command to check the working.
 
@@ -61,13 +59,11 @@ To implement a conversational search of local available PDF documents using the 
 
 ![docker-login](docker-login.jpg)
 
-
 5. Build the docker image using docker compose config and run the container
 
 ![docker-compose](docker-compose.jpg)
 ![docker-compose](docker-compose1.jpg)
 ![docker-compose](docker-compose2.jpg)
-
 
 8. Login to dockerhub , tag the docker image and push it to dockerhub.
 
@@ -77,7 +73,7 @@ To implement a conversational search of local available PDF documents using the 
 
 ![docker-hub](docker-hub.png)
     
-	Reference
+Reference
 
-    https://medium.com/@onkarmishra/using-langchain-for-question-answering-on-own-data-3af0a82789ed
-	https://youtu.be/CpZdoYO9xDI?si=wO_bJPFbbRpRVCwC
+https://medium.com/@onkarmishra/using-langchain-for-question-answering-on-own-data-3af0a82789ed
+https://youtu.be/CpZdoYO9xDI?si=wO_bJPFbbRpRVCwC
