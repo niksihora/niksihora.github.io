@@ -4,53 +4,60 @@ date = 2024-05-03T18:41:56+05:30
 draft = false
 +++
 
-As a __Linux Administrator__ at [Tata Consultancy Services](https://tcs.com/), I manage and maintain the Linux servers and networks for various clients, ensuring optimal performance, security, and reliability. I have received multiple awards for my excellence in service delivery, customer satisfaction, and problem resolution, such as the On The Spot Award and the Certificate of Appreciation (Performer of the Quarter).
-With over six years of experience in Linux system administration, I have proficiency in:
-- Red Hat Enterprise Linux
-- Ansible
-- Kubernetes
-- Docker
-- Cloud technologies
+# 👋 Hi there, I'm Nikhil Sihora!
 
-## My System Admin Experience
-- Mar/2023 - current position : __Linux Administrator__ working from [Tata Consultancy Services](https://tcs.com/) Mumbai, India.  
+🚀 **DevOps Engineer | Linux Admin | Cloud Enthusiast | Automation Expert**  
+💡 Passionate about optimizing workflows, building scalable systems, and delivering reliable infrastructure.
 
-- May/2019 - Feb/2023 : __IT Engineer__ worked from [Microfiber Corp Pvt Ltd](https://microfibercorp.com/) Silvassa, India.
+## 🌟 About Me
 
-- Jul/2017 - Jan/2019 : __IT Assistant__ worked from [Internex Poly Pvt Ltd](https://internexpoly.com) Silvassa, India.
+- 💻 I specialize in **Linux**, **Infrastructure as Code (IaC)**, **Kubernetes**, and **Cloud Infrastructure**.
+- 🌱 Currently learning **Advanced Terraform Modules**, **OpenShift**, and **GitOps** practices.
+- 🛠️ Experienced with tools like Docker, Jenkins, Ansible, and Monitoring.
+- 🎯 2025 Goals: Automate everything 🚀 and contribute more to open-source DevOps projects.
+- 🗨️ Ask me about **AWS, Docker, Kubernetes, or Linux**.
 
-_Now embarking on a journey towards DevOps and Project Management feels like the natural next step in my career. Having navigated through diverse professional terrains, I've gained a perceptive eye for the intricacies of technical operations._
+## 🛠️ Skills and Tools
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-E6522C?style=for-the-badge&logo=Azure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=Python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-D24939?style=for-the-badge&logo=CloudFormation&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2496ED?style=for-the-badge&logo=MongoDB&logoColor=white)
 
-## Education
-- Postgraduate Degree in International Business from [SCDL](https://scdl.net/) in December 2021.
-- Bachelor of Computer Application from [Pune University](http://www.unipune.ac.in/default.htm) in May 2017.
+## 📊 GitHub Stats
 
-## Passion & Commitment
-I am passionate about learning new skills and staying updated with the latest trends and innovations in the IT industry.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niksihora&show_icons=true&theme=radical)
 
-## Technical Skills/Certificates
-- **System Administration:** Red Hat Enterprise Linux(RHEL), CentOS, Ubuntu, Windows Server, Hyper-V, Nginx, Apache, JBoss, Firewalld.
-- **Networking:** TCP/IP, DNS, DHCP, VPN, VLANs
-- **Scripting/Programming:** PowerShell, Bash, Python, Ansible.
-- **Containerization:** Kubernetes, Podman, Docker, Crictl, Yaml
-- **Certifications:**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niksihora&layout=compact&theme=radical)
+
+## 🌟 Featured Projects
+
+- [**Personal Blog in Hugo**](https://github.com/niksihora/niksihora.github.io/)  
+  _Set up a Static blog website using Hugo with Fixit theme_  
+  **Tech:** Docker, Go/MarkDown, Kubernetes
+
+  ## 🏆 Certifications
+
   {{< raw >}}
   <div style="padding: 10px; text-align: center;">
+  <div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="0b6422dc-aebc-42c0-8a32-7c0f8076128c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="d6b00133-6cab-4217-9ea9-503911ea0fa6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="66119e3b-16a9-4405-9495-695937f9757e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="32522a75-fd4e-4da7-93d9-cdaa5572f24a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="8114b252-9fa1-4f6d-b79a-82d2db5a1de5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="f86e1607-998e-43f3-9c1f-7c58638bb661" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   </div>
+  <div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="1c11000b-a00a-486c-a4da-7a6347d5d0ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   {{< /raw >}}
 
-## Languages
-- English (C1)
-- Hindi (Native speaker)
-- Gujarati (Native speaker)
+## 🤝 Connect with Me
 
-## Contact Information
-- **Email:** [niksihora@gmail.com](mailto:niksihora@gmail.com)
-- **LinkedIn:** [niksihora](https://www.linkedin.com/in/nik-sihora/)
-- **Github:** [https://github.com/niksihora](https://github.com/niksihora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nik-sihora/)
