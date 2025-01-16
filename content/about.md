@@ -2,6 +2,7 @@
 title = 'About Me'
 date = 2024-05-03T18:41:56+05:30
 draft = false
+
 +++
 
 # 👋 Hi there, I'm Nikhil Sihora!
@@ -44,7 +45,7 @@ draft = false
   _Set up a Static blog website using Hugo with Fixit theme_  
   **Tech:** Docker, Go/MarkDown, Kubernetes
 
-  ## 🏆 Certifications
+## 🏆 Certifications
 
   {{< raw >}}
   <div style="padding: 10px; text-align: center;">
@@ -54,8 +55,8 @@ draft = false
   <div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="32522a75-fd4e-4da7-93d9-cdaa5572f24a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="8114b252-9fa1-4f6d-b79a-82d2db5a1de5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="f86e1607-998e-43f3-9c1f-7c58638bb661" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  </div>
   <div data-iframe-width="200" data-iframe-height="270" data-share-badge-id="1c11000b-a00a-486c-a4da-7a6347d5d0ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  </div>
   {{< /raw >}}
 
 ## 🤝 Connect with Me
